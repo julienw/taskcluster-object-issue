@@ -37,3 +37,5 @@ it doesn't shadow the JavaScript standard `Object` class.
 
 Note that Babel is necessary when running with Jest in CommonJS mode because
 taskcluster-client-web is published with ES modules.
+
+Reported in https://github.com/taskcluster/taskcluster/issues/7110
